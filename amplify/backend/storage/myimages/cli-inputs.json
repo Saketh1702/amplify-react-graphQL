@@ -1,0 +1,14 @@
+{
+  "resourceName": "myimages",
+  "policyUUID": "62e39996",
+  "bucketName": "amplifyreactgraphql9e5b6dfd61514e80914b2a473a61",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
